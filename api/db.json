@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post one",
+      "body": "Body of post one",
+      "author": "Harsh"
+    },
+    {
+      "id": 2,
+      "title": "Post two",
+      "body": "Body of post two",
+      "author": "Harsh Kukreja"
+    },
+    {
+      "title": "Post three",
+      "body": "Body of post three",
+      "author": "Nai dunga naam",
+      "id": 3
+    },
+    {
+      "title": "Post four",
+      "author": "Harsh ",
+      "body": "Body of four",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Comment on post one",
+      "postId": 1
+    }
+  ]
+}

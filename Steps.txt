@@ -1,0 +1,14 @@
+FLow:
+JsonServer install 
+Json File banane ka
+Then task for jsonserver to watch my json file ki kuch change hua ki nai
+
+SLHTTP.js of async await ko copy paste 
+obj banake export and then import in app.js
+
+Adding an onload event on body and fetching the post
+
+
+npm run build 
+npm run start
+npm run backend-server
